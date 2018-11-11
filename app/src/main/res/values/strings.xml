@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ZooAnimal</string>
+    <string name="name">Name</string>
+    <string name="country">country</string>
+    <string name="dangerous_safes">Dangerous, Safes</string>
+    <string name="animal_name">Animal Name</string>
+</resources>
